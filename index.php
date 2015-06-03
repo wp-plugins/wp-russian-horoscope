@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Russian Horoscope
 Plugin URI: http://glaswr.ru/
-Description: Плагин для отображения ежедневного гороскопа. С возможностью выбора дополнительной категории.
+Description: Плагин для отображения ежедневного гороскопа по категориям.
 Version: 1.0
 Author: Galswr
 Author URI: http://glaswr.ru/
